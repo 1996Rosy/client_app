@@ -68,23 +68,6 @@ ion-card{
  
 
 
-@media only screen and (min-width: 1000px) {
-  ion-content {  
-    text-align: center;
-    font-weight: 400;
-    height: 100%;
-    width: 100%;
-    --color: black;
-  }
-}
-
-@media only screen and (min-width: 1400px) {
-  ion-card{
-    margin-left: 120px;
-    margin-right:120px;
-  }
-}
-
 
 
 
